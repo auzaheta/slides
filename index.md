@@ -19,7 +19,7 @@ a {font-style: italic;}
 
 ## Talks
 
-`Apr 22, 2019` [Introduction to R Markdown](https://liao961120.github.io/2019-fju-rmd-talk/slide/), a talk at Fu Jen Catholic University, New Taipei City, Taiwan
+`Apr 22, 2019` [Introduction to R Markdown](https://liao961120.github.io/2019-fju-rmd-talk/slide/){:target='_blank' .tab0}, a talk at Fu Jen Catholic University, New Taipei City, Taiwan
 
 
 ## Doc
