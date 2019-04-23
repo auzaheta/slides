@@ -19,9 +19,8 @@ a {font-style: italic;}
 
 ## Talks
 
-
-
 `Apr 22, 2019` [Introduction to R Markdown](https://liao961120.github.io/2019-fju-rmd-talk/slide/), a talk at Fu Jen Catholic University, New Taipei City, Taiwan
+
 
 ## Doc
 
@@ -32,11 +31,11 @@ a {font-style: italic;}
 `Oct 04, 2018` [Xaringan Reference](xaringan){:target='_blank' .tab0} ([PDF](xaringan/xaringan.pdf){:target='_blank'})
 
 
-## Journal Paper Report
+## Journal Paper Presentation
 
 `Apr 23, 2019` [Getting real about Semantic Illusions (Brouwer et al., 2012)](https://liao961120.github.io/brouwer2012/){:target='_blank' .tab0}
 
-`Dec 25, 2018` [Social Psychology Final](http://bit.ly/socialpsy181225){:target='_blank' .tab0}
+`Dec 25, 2018` [Social Psychology Group Report](http://bit.ly/socialpsy181225){:target='_blank' .tab0}
 
 
 ## Others
